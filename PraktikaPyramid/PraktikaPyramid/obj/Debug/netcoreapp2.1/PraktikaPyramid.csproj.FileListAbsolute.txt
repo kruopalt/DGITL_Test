@@ -1,0 +1,11 @@
+C:\Users\martynasm\OneDrive - UAB Kelprojektas\Desktop\C uzdavinys\PraktikaPyramid\PraktikaPyramid\obj\Debug\netcoreapp2.1\PraktikaPyramid.csproj.CoreCompileInputs.cache
+C:\Users\martynasm\OneDrive - UAB Kelprojektas\Desktop\C uzdavinys\PraktikaPyramid\PraktikaPyramid\obj\Debug\netcoreapp2.1\PraktikaPyramid.AssemblyInfoInputs.cache
+C:\Users\martynasm\OneDrive - UAB Kelprojektas\Desktop\C uzdavinys\PraktikaPyramid\PraktikaPyramid\obj\Debug\netcoreapp2.1\PraktikaPyramid.AssemblyInfo.cs
+C:\Users\martynasm\OneDrive - UAB Kelprojektas\Desktop\C uzdavinys\PraktikaPyramid\PraktikaPyramid\bin\Debug\netcoreapp2.1\PraktikaPyramid.deps.json
+C:\Users\martynasm\OneDrive - UAB Kelprojektas\Desktop\C uzdavinys\PraktikaPyramid\PraktikaPyramid\bin\Debug\netcoreapp2.1\PraktikaPyramid.runtimeconfig.json
+C:\Users\martynasm\OneDrive - UAB Kelprojektas\Desktop\C uzdavinys\PraktikaPyramid\PraktikaPyramid\bin\Debug\netcoreapp2.1\PraktikaPyramid.runtimeconfig.dev.json
+C:\Users\martynasm\OneDrive - UAB Kelprojektas\Desktop\C uzdavinys\PraktikaPyramid\PraktikaPyramid\bin\Debug\netcoreapp2.1\PraktikaPyramid.dll
+C:\Users\martynasm\OneDrive - UAB Kelprojektas\Desktop\C uzdavinys\PraktikaPyramid\PraktikaPyramid\bin\Debug\netcoreapp2.1\PraktikaPyramid.pdb
+C:\Users\martynasm\OneDrive - UAB Kelprojektas\Desktop\C uzdavinys\PraktikaPyramid\PraktikaPyramid\obj\Debug\netcoreapp2.1\PraktikaPyramid.dll
+C:\Users\martynasm\OneDrive - UAB Kelprojektas\Desktop\C uzdavinys\PraktikaPyramid\PraktikaPyramid\obj\Debug\netcoreapp2.1\PraktikaPyramid.pdb
+C:\Users\martynasm\OneDrive - UAB Kelprojektas\Desktop\C uzdavinys\PraktikaPyramid\PraktikaPyramid\obj\Debug\netcoreapp2.1\PraktikaPyramid.csprojAssemblyReference.cache
